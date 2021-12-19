@@ -1,2 +1,1 @@
-# Matrix-Multiplication
-Matrix Multiplication using Pthreads
+# C Matrix Multiplication using Pthreads
